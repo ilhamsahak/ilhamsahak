@@ -8,6 +8,7 @@ Hi, I’m Ilham. I currently work as a Marketing and Data Analyst, focusing on t
 - React with Vite
 - Firebase
 - Looker Studio
+- Google BigQuery
 - Python for data processing
 - Data modeling using Star Schema (high proficiency)
 - Snowflake-style schema (working knowledge)
