@@ -2,57 +2,60 @@
 
 Data Engineer based in Malaysia.
 
-I work on building data pipelines, analytics platforms, and dashboards that help businesses make better decisions. Most of my experience comes from working in a startup environment where I handled the full data lifecycle — from raw data ingestion to reporting for stakeholders.
-
----
+I work on building data pipelines, orchestration workflows, and analytics systems. Most of my experience comes from handling the full data lifecycle, from ingestion to transformation and reporting.
 
 ## What I Do
 
-- Design and maintain BigQuery data warehouses  
-- Build ELT pipelines using SQL and Python  
-- Automate reporting workflows  
-- Develop internal analytics tools using FastAPI  
-- Create dashboards in Power BI and Looker Studio  
-- Support forecasting and business expansion analysis  
+- Design and maintain BigQuery data warehouses
+- Build ELT pipelines using SQL and Python
+- Implement workflow orchestration using Apache Airflow
+- Automate reporting pipelines
+- Develop internal tools using FastAPI
+- Build dashboards for operational and business reporting
+- Support forecasting and performance analysis
 
----
+## Tech Stack
 
-## Tech I Work With
+### Data Engineering
 
-**Data & Engineering**
 - SQL
 - Python
 - Google BigQuery
-- GCP
+- Google Cloud Platform
+- Apache Airflow
 - FastAPI
-- Git
+- Docker
+- Git and GitHub
 
-**Analytics & BI**
-- Power BI (DAX)
+### Analytics and BI
+
+- Power BI
 - Looker Studio
+- DAX
 - KPI development
-- Time-series analysis
+- Time series analysis
 
-**Currently Improving**
-- Apache Airflow for workflow orchestration
-- BigQuery performance optimization
+## Current Focus
 
----
+- Airflow orchestration design
+- CI/CD for data pipelines
+- BigQuery query optimization
+- Pipeline reliability and monitoring
+- Standardizing deployment workflows
 
-## What I’ve Built
+## Selected Work
 
-- Centralized warehouse architecture (Raw → Aggregated → Reporting)
-- Automated ingestion pipelines for POS and delivery platform data
-- Internal analytics portal for stakeholders
-- Reporting system that reduced manual reporting time by 90%+
-- Forecasting models for outlet expansion planning
+- Designed centralized warehouse structure with raw, transformation, and reporting layers
+- Built automated ingestion pipelines for POS and external platform data
+- Implemented Airflow-based workflow orchestration
+- Developed internal reporting workflows that reduced manual reporting time by more than 90 percent
+- Built forecasting models used for outlet planning and performance tracking
 
----
+## About
 
-## About Me
+I focus on building structured and maintainable data systems that support real operational needs.
 
-I enjoy solving data problems that sit between engineering and business. I like building systems that are reliable, structured, and actually useful in real-world operations.
+## Contact
 
-If you're interested in collaborating or discussing data engineering:
-
-📧 ilhamishakaman@gmail.com  
+Email: ilhamishakaman@gmail.com  
+Location: Malaysia
