@@ -8,7 +8,7 @@ Building data pipelines, automating workflows, and making dashboards look smarte
 
 ## Stack
 
-SQL • Python • BigQuery • Airflow • GCP • FastAPI • Docker • Git
+SQL • Python • BigQuery • Airflow • GCP • FastAPI • Docker • Git • Paint • MS Word 98
 
 ## Currently Fighting
 
