@@ -18,5 +18,3 @@ SQL • Python • BigQuery • Airflow • GCP • FastAPI • Docker • Git �
 ## Contact
 
 Malaysia
-
-[ilhamishakaman@gmail.com](mailto:ilhamishakaman@gmail.com)
