@@ -1,6 +1,6 @@
-# Mohd Ilham Ishak
+# Ilham
 
-Senior Data Engineer from Malaysia.
+Senior Data Engineer
 
 I move data from Point A to Point B and spend most of my time figuring out why it stopped moving.
 
